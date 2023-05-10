@@ -90,7 +90,7 @@
   
 
 <h2>Thank You</h2>
-<p>Thank you for checking out my repository! I hope you find the projects and code provided helpful and informative. If you have any questions or suggestions, please feel free to reach out. 😊</p>
+<p>Thank you for checking out my repository! I hope you find the projects and code provided helpful and informative. If you have any questions or suggestions, please feel free to reach out.😊</p>
 
 </body>
 
